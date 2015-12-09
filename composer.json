@@ -12,7 +12,7 @@
     "require": {
         "symfony/framework-bundle": "^2.7.3|^3.0.0",
         "symfony/dependency-injection": "^2.7.3|^3.0.0",
-        "puli/composer-plugin": "^1.0-beta8",
+        "puli/composer-plugin": "*",
         "puli/symfony-bridge": "^1.0-beta3"
     },
     "require-dev": {
